@@ -89,6 +89,13 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/CFAMF.png"
     }
+    {
+      "address": "0x54E30fd5f22E547d085C1011Ede0725f965B3cf4",
+      "name": "Wizards Alchemy",
+      "symbol": "WZRD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wzrd.png"
+    }
   ],
   "version": {
     "major": 0,

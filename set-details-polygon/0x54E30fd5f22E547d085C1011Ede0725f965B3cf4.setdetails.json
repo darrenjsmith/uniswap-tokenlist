@@ -1,0 +1,16 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Wizards Alchemy",
+    "setSymbol": "WZRD",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/wzrd.png",               // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/asset_name.png
+    "setDescription": "The transmutation of lead to gold… stack your sats, my friends. This is a bespoke and curated selection of DeFi and DEX coins available on the Polygon network. This is an actively managed unweighted portfolio that watches the major alt coin cycles and de-risks to USDC accordingly.",
+    "managerName": "Darren John Smith",
+    "managerTwitter": "AwakeningWizard",
+    "website": "https://y.at/mushroom.unicorn.zap.psychic.crown",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/djs.png",           // https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/manager_name.png
+    "managerDescription": "Making money is play. Long over due are we needing a revamp of our global monetary system. And so here we are, catching some of the capital as it pours from the outdated model, into a new decentralised network of exchange that is free from state influenced and infinitely printed, dollars. May you be blessed here on your journey into abundance. I purchased my first BTC in 2013 and I have over 3 years of experience trading spot and futures in Crypto. My intention in creating this set is to support those around me who don’t have the technical know how or domain knowledge to trade crypto, but wish to make the most out of this once in a life time opportunity. Peace."
+  },
+  "version": 1
+}
